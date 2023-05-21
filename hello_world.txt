@@ -1,0 +1,2 @@
+adding text 
+sample text just typing some stuff then going to add it to git
